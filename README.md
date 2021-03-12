@@ -28,3 +28,30 @@ To show changes in a specific commit
 `git show commit_id`
 
 `git show commit_id --name-only`
+
+3. Add
+
+Undo add file
+
+`git reset <file>`
+
+Undo add all
+
+`git reset`
+
+4. Commit 
+
+Undo commit and add to all
+
+`git reset HEAD~`
+
+5. Branch
+
+Delete local branch
+
+`git branch -d <branch_name>`
+
+Delete remote branch
+
+`git push -d <remote_name> <branch_name>`
+
