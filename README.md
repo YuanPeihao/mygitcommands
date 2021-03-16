@@ -15,6 +15,11 @@ Show config
 
 `git config --list`
 
+Add config
+
+`git config --global user.email "peihao.yuan@yahoo.com"`
+`git config --global user.name "Peihao Yuan"`
+
 ## 2. Log
 
 To show commit history 
