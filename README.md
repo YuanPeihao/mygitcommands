@@ -1,7 +1,7 @@
 # mygitcommands
 This repository is used to record all the useful git commands I've been using 
 
-## 1. Config related
+## 1. Config 
 
 1.1 Add a new remote
 
@@ -15,7 +15,7 @@ This repository is used to record all the useful git commands I've been using
 
 `git config --list`
 
-## 2. Check history
+## 2. Log
 
 To show commit history 
 
