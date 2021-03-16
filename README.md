@@ -15,7 +15,7 @@ This repository is used to record all the useful git commands I've been using
 
 `git config --list`
 
-2. Check history
+## 2. Check history
 
 To show commit history 
 
@@ -29,7 +29,7 @@ To show changes in a specific commit
 
 `git show commit_id --name-only`
 
-3. Add
+## 3. Add
 
 Undo add file
 
@@ -39,13 +39,13 @@ Undo add all
 
 `git reset`
 
-4. Commit 
+## 4. Commit 
 
 Undo commit and add to all
 
 `git reset HEAD~`
 
-5. Branch
+## 5. Branch
 
 Delete local branch
 
