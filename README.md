@@ -17,9 +17,9 @@ Show config
 
 Add config
 
-`git config --global user.email "peihao.yuan@yahoo.com"`
+`git config --global user.email "username@yahoo.com"`
 
-`git config --global user.name "Peihao Yuan"`
+`git config --global user.name "username"`
 
 ## 2. Log
 
