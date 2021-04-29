@@ -75,5 +75,6 @@ Shows all the changes between the working directory and HEAD (which includes cha
 
 `git diff HEAD`
 
+     | HEAD | 
 
 
