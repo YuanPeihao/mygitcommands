@@ -79,9 +79,9 @@ Shows all the changes between the working directory and HEAD (which includes cha
 
                      |---HEAD---|
  git diff --cached     |      |
-                   |Index|    |
-                       |      |
-                      | Working Tree |
+                   |Index|    |           git diff HEAD
+ git diff              |      |    
+                      |Working Tree|
                       
 ```
                              
