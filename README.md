@@ -84,7 +84,16 @@ Shows all the changes between the working directory and HEAD (which includes cha
                       |Working Tree|
                       
 ```
-                             
+
+## 7. file history
+
+History from file bar is created
+
+`git log -p bar`
+
+History from file is created which contains both old names and new name
+
+`git log --follow -p -- path-to-file`
      
           
           
