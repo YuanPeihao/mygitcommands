@@ -94,7 +94,10 @@ History from file bar is created
 History from file is created which contains both old names and new name
 
 `git log --follow -p -- path-to-file`
-     
+
+## 8. discard local changes
+
+`git checkout -- path/to/file/to/revert`
           
           
    
